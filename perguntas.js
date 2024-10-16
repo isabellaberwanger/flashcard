@@ -19,12 +19,12 @@ criaCartao{
     'o personagem tem 1,98 m de altura.'
 }
 criaCartao{
-    'categoria',
-    'pergunta',
-    'resposta',
+    'musica',
+    'onde Ariana Grande nasceu?',
+    'Ela nasceu nos Estados Unidos, na Flórida em Boca Raton,
 }
 criaCartao{
-    'categoria',
-    'pergunta',
-    'resposta',
+    'musica',
+    'Qual a saga favorita dela?',
+    'Ela é muito fã de Harry Potter.',
 }
