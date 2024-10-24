@@ -1,30 +1,31 @@
-criaCartao{
+criaCartao(
     'filme',
     'qual é a diferença da Bruxa Má do Oeste do livro para o filme?',
     'A Bruxa Má do Oeste do filme O Mágico de Oz tem dois olhos, enquanto no livro tem apenas um.',
-}
-criaCartao{
+)
+criaCartao(
     'filme',
     'quantos oscars ganhou O Mágico de oz?',
     'Em 1940, O Mágico de Oz venceu o Oscar de melhor trilha sonora original e de melhor música.',
-}
-criaCartao{
+)
+criaCartao(
     'jogo',
     'Como era a criação de Kratos durante a produção? ',
     'Além de ter um cabelo muito longo, o protagonista carregava um bebê.',
-}
-criaCartao{
+)
+criaCartao(
     'jogo',
     'Qual é a altura de Kratos?',
     'o personagem tem 1,98 m de altura.'
-}
-criaCartao{
+)
+criaCartao(
     'musica',
     'onde Ariana Grande nasceu?',
     'Ela nasceu nos Estados Unidos, na Flórida em Boca Raton,
-}
-criaCartao{
+
+)
+criaCartao(
     'musica',
     'Qual a saga favorita dela?',
     'Ela é muito fã de Harry Potter.',
-}
+)
